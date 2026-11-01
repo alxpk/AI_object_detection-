@@ -1,0 +1,22 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Training artifacts & runs
+runs/
+
+# Downloaded datasets (e.g. coco8 auto-downloaded by ultralytics)
+datasets/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
